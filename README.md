@@ -1,2 +1,3 @@
 # Tribe-Hacks-Project
-The best project in existence 
+Project for 2023 Tribe Hackathon
+
